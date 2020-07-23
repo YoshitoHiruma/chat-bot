@@ -5,11 +5,11 @@
                 "nextId": "job_offer"
             },
             {
-                "content": "エンジニアのキャリアについて相談したい",
+                "content": "おいしいビールについて相談したい",
                 "nextId": "consultant"
             },
             {
-                "content": "学習コミュニティについて知りたい",
+                "content": "おいしい二郎ラーメンついて知りたい",
                 "nextId": "community"
             },
             {
@@ -90,10 +90,10 @@
     "consultant": {
         "answers": [{
                 "content": "YouTubeで動画を見る",
-                "nextId": "https://www.youtube.com/channel/UC-bOAxx-YOsviSmqh8COR0w"
+                "nextId": "https://youtu.be/gwiNc4fDp9A"
             },
             {
-                "content": "学習コミュニティについて知りたい",
+                "content": "おいしい二郎ラーメンついて知りたい",
                 "nextId": "community"
             },
             {
@@ -101,44 +101,44 @@
                 "nextId": "init"
             }
         ],
-        "question": "トラハックは普段からYouTubeでキャリアについて発信しています。また、僕が運営するエンジニア向け学習コミュニティ内でも相談に乗っていますよ。"
+        "question": "私の一押しは黒ラベルです。料理に合います😊ビール単体で飲むなら、エビスビールです！"
     },
     "community": {
         "answers": [{
-                "content": "どんな活動をしているの？",
+                "content": "二郎ラーメンって？",
                 "nextId": "community_activity"
             },
             {
-                "content": "コミュニティに参加したい",
-                "nextId": "https://torahack.web.app/community/"
+                "content": "オススメのお店を知りたい！",
+                "nextId": "https://ramendb.supleks.jp/s/29930.html"
             },
             {
                 "content": "最初の質問に戻る",
                 "nextId": "init"
             }
         ],
-        "question": "2020年3月から学習コミュニティを始めました！🎉Webエンジニアへの転職を目指す人向けに、プログラミングを教えたりキャリアの相談に乗っています。"
+        "question": "大学入学を機に二郎ラーメンにどっぷりハマりました！神奈川のお店は行けてないので今年こそは！"
     },
     "community_activity": {
         "answers": [{
                 "content": "さらに詳細を知りたい",
-                "nextId": "https://youtu.be/tIzE7hUDbBM"
+                "nextId": "https://macaro-ni.jp/70446"
             },
             {
-                "content": "コミュニティに参加したい",
-                "nextId": "https://torahack.web.app/community/"
+                "content": "オススメのお店は？",
+                "nextId": "https://ramendb.supleks.jp/s/29930.html"
             },
             {
                 "content": "最初の質問に戻る",
                 "nextId": "init"
             }
         ],
-        "question": "フロントエンド向けの教材の提供、キャリアや勉強法に関するメルマガの配信、週1のオンライン作業会などを開催しています！\n詳細はYouTube動画で紹介しています。"
+        "question": "高く盛られたもやしとキャベツ、「ぶた」と呼ばれるチャーシューは麺を隠して見えなくするほどです。こってりと濃厚な豚骨スープに、極太の平打ち麺がよく絡みます。"
     },
     "dating": {
         "answers": [{
                 "content": "DMする",
-                "nextId": "https://twitter.com/torahack_"
+                "nextId": "https://twitter.com/_beats_time_"
             },
             {
                 "content": "最初の質問に戻る",
